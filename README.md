@@ -1,3 +1,9 @@
+# angular_reactiveForms
+
+Reactive Forms 을 활용할 일이 생겨서 공부할 겸 예제를 한번 만들어 봄.
+아래 링크를 참조하여 예제를 만들어 봄.
+https://angular.io/docs/ts/latest/guide/reactive-forms.html
+
 # Angular QuickStart Source
 [![Build Status][travis-badge]][travis-badge-url]
 
@@ -186,4 +192,3 @@ Shut it down manually with `Ctrl-C`.
 [travis-badge]: https://travis-ci.org/angular/quickstart.svg?branch=master
 [travis-badge-url]: https://travis-ci.org/angular/quickstart
 
-# angular_reactiveForms
